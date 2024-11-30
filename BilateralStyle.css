@@ -1,11 +1,11 @@
 }
 @font-face {
     font-family: 'Hearts';
-    src: url(rainyhearts.ttf)format('truetype');
+    src: url(fonts/rainyhearts.ttf)format('truetype');
 }
 @font-face {
     font-family: 'Thicc Pixel';
-    src: url(04B_30__.TTF)format('truetype');
+    src: url(fonts/04B_30__.TTF)format('truetype');
 }
 * {
     margin: 0;
